@@ -5,6 +5,7 @@ coverage/
 *.log
 .env
 .env.local
+.env.example
 .DS_Store
 
 # RSA keypair generated at runtime by auth-service (never commit secrets)
